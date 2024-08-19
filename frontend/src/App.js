@@ -2,7 +2,6 @@ import React from 'react';
 import CardContainer from './components/CardContainer';
 import Footer from './components/Footer';
 import Header from './components/Header';
-import './App.css'
 import SearchBar from './components/SearchBar';
 function App() {
   
